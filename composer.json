@@ -16,10 +16,9 @@
     "minimum-stability": "dev",
     "extra": {
         "installer-paths": {
-            "src/_twig-components/functions": [
+            "src/_twig-components/extensions": [
                 "vanpattenmedia/twig-pluralize-extension"
             ]
         }
     }
 }
-g
