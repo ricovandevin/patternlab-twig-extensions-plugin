@@ -3,8 +3,6 @@
     "description": "Adds the ability to load custom Twig extensions into PatternLab.",
     "type": "patternlab-plugin",
     "require": {
-        "vanpattenmedia/twig-pluralize-extension": "^1.0",
-        "composer/installers": "^1.0@dev"
     },
     "license": "MIT",
     "authors": [
@@ -13,12 +11,5 @@
             "email": "rico@finlet.eu"
         }
     ],
-    "minimum-stability": "dev",
-    "extra": {
-        "installer-paths": {
-            "src/_twig-components/extensions": [
-                "vanpattenmedia/twig-pluralize-extension"
-            ]
-        }
-    }
+    "minimum-stability": "dev"
 }
