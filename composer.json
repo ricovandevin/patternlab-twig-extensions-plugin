@@ -1,6 +1,6 @@
 {
     "name": "ricovandevin/patternlab-twig-extensions-plugin",
-    "description": "Adds the ability to load Twig extensions into PatternLab",
+    "description": "Adds the ability to load custom Twig extensions into PatternLab.",
     "type": "patternlab-plugin",
     "require": {
         "vanpattenmedia/twig-pluralize-extension": "^1.0",
