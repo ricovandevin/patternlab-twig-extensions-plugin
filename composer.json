@@ -1,5 +1,5 @@
 {
-    "name": "ricovandevin/patternlab-extensions-plugin",
+    "name": "ricovandevin/patternlab-twig-extensions-plugin",
     "description": "Adds the ability to load Twig extensions into PatternLab",
     "type": "patternlab-plugin",
     "require": {
